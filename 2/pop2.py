@@ -1,0 +1,2 @@
+a = 'huy'
+print(a)
